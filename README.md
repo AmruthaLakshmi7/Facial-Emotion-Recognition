@@ -27,4 +27,21 @@ A machine learning / deep learning project that detects human emotions from faci
 ## How to Run
 
 1. Install required libraries:
+   pip install -r requirements.txt
+
+
+2. Run the main program:
+
+3. Allow webcam access for real-time detection.
+
+## Applications
+- Human-computer interaction
+- Mental health monitoring
+- Smart surveillance systems
+- Emotion-aware applications
+
+## Author
+Amruthalakshmi H K
+
+   
 
